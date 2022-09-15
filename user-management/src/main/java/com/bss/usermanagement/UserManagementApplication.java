@@ -13,6 +13,7 @@ public class UserManagementApplication {
 	}
 
 	@Bean
+	@LoadBalanced
 	private RestTemplate restTemplate(){
 		return new RestTemplate();
 	}
