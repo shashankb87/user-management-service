@@ -1,2 +1,2 @@
 # user-management-service
-Spring Boot tutorial - Implementing a user management microservice framework including analytics in spring boot
+Spring Boot tutorial - Implementing a user / department management microservice framework using spring boot
